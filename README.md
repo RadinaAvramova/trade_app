@@ -1,7 +1,5 @@
 # Ruby on Rails - Trade App With In–App Messaging
 
-[Download the source code](https://github.com/RadinaAvramova/trade_app)
-
 ### Scaffold the trade
 ```bash
 $ rails g scaffold Trade title:string description:text user:references
